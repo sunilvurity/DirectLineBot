@@ -1,0 +1,14 @@
+C:\Social\BotBuilder-Samples-3-sdk-samples\BotBuilder-Samples-3-sdk-samples\CSharp\core-DirectLine\DirectLineClient\bin\Debug\DirectLineSampleClient.exe.config
+C:\Social\BotBuilder-Samples-3-sdk-samples\BotBuilder-Samples-3-sdk-samples\CSharp\core-DirectLine\DirectLineClient\bin\Debug\DirectLineSampleClient.exe
+C:\Social\BotBuilder-Samples-3-sdk-samples\BotBuilder-Samples-3-sdk-samples\CSharp\core-DirectLine\DirectLineClient\bin\Debug\DirectLineSampleClient.pdb
+C:\Social\BotBuilder-Samples-3-sdk-samples\BotBuilder-Samples-3-sdk-samples\CSharp\core-DirectLine\DirectLineClient\bin\Debug\Microsoft.Bot.Connector.DirectLine.dll
+C:\Social\BotBuilder-Samples-3-sdk-samples\BotBuilder-Samples-3-sdk-samples\CSharp\core-DirectLine\DirectLineClient\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Social\BotBuilder-Samples-3-sdk-samples\BotBuilder-Samples-3-sdk-samples\CSharp\core-DirectLine\DirectLineClient\bin\Debug\Newtonsoft.Json.dll
+C:\Social\BotBuilder-Samples-3-sdk-samples\BotBuilder-Samples-3-sdk-samples\CSharp\core-DirectLine\DirectLineClient\bin\Debug\Newtonsoft.Json.xml
+C:\Social\BotBuilder-Samples-3-sdk-samples\BotBuilder-Samples-3-sdk-samples\CSharp\core-DirectLine\DirectLineClient\obj\Debug\DirectLineSampleClient.csprojAssemblyReference.cache
+C:\Social\BotBuilder-Samples-3-sdk-samples\BotBuilder-Samples-3-sdk-samples\CSharp\core-DirectLine\DirectLineClient\obj\Debug\DirectLineSampleClient.csproj.CoreCompileInputs.cache
+C:\Social\BotBuilder-Samples-3-sdk-samples\BotBuilder-Samples-3-sdk-samples\CSharp\core-DirectLine\DirectLineClient\obj\Debug\DirectLineSampleClient.csproj.CopyComplete
+C:\Social\BotBuilder-Samples-3-sdk-samples\BotBuilder-Samples-3-sdk-samples\CSharp\core-DirectLine\DirectLineClient\obj\Debug\DirectLineSampleClient.exe
+C:\Social\BotBuilder-Samples-3-sdk-samples\BotBuilder-Samples-3-sdk-samples\CSharp\core-DirectLine\DirectLineClient\obj\Debug\DirectLineSampleClient.pdb
+C:\Social\BotBuilder-Samples-3-sdk-samples\BotBuilder-Samples-3-sdk-samples\CSharp\core-DirectLine\DirectLineClient\bin\Debug\websocket-sharp.dll
+C:\Social\BotBuilder-Samples-3-sdk-samples\BotBuilder-Samples-3-sdk-samples\CSharp\core-DirectLine\DirectLineClient\bin\Debug\websocket-sharp.xml
